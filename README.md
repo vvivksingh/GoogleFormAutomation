@@ -1,6 +1,6 @@
 
 ## Project Name and Description:
-# Project Name - _Google_Form_Automation (Vivek Sinfg)_
+# Project Name - _Google_Form_Automation (Vivek Singh)_
 # Project Overview:
 The goal of this project is to automate the process of filling out a Google Form by interacting with different types of form elements such as text boxes, text areas, radio buttons, checkboxes, calendar date inputs, and time inputs.
 
